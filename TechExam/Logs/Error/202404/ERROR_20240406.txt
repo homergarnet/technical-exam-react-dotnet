@@ -1,0 +1,36 @@
+Date :4/6/2024 8:18:24 PM
+Message :SQL Exception in ExecuteRead | SP: dbo.sp_orders, System.Data.SqlClient.SqlParameterCollection | SQL Error: Number - 201, Procedure or function 'sp_orders' expects parameter '@LastInsertedOrderId', which was not supplied.
+
+
+-----------------------------------------------------------------------------
+
+Date :4/6/2024 8:18:24 PM
+Message :ProductUtils | save | {"ProductId":1.0,"Quantity":1,"OrderId":0} SQL Error: Number - 201, Procedure or function 'sp_orders' expects parameter '@LastInsertedOrderId', which was not supplied.
+
+
+-----------------------------------------------------------------------------
+
+Date :4/6/2024 8:20:50 PM
+Message :SQL Exception in ExecuteRead | SP: dbo.sp_orders, System.Data.SqlClient.SqlParameterCollection | SQL Error: Number - 201, Procedure or function 'sp_orders' expects parameter '@LastInsertedOrderId', which was not supplied.
+
+
+-----------------------------------------------------------------------------
+
+Date :4/6/2024 8:20:50 PM
+Message :ProductUtils | save | {"ProductId":1.0,"Quantity":1,"OrderId":0} SQL Error: Number - 201, Procedure or function 'sp_orders' expects parameter '@LastInsertedOrderId', which was not supplied.
+
+
+-----------------------------------------------------------------------------
+
+Date :4/6/2024 8:21:16 PM
+Message :SQL Exception in ExecuteRead | SP: dbo.sp_orders, System.Data.SqlClient.SqlParameterCollection | SQL Error: Number - 201, Procedure or function 'sp_orders' expects parameter '@LastInsertedOrderId', which was not supplied.
+
+
+-----------------------------------------------------------------------------
+
+Date :4/6/2024 8:22:26 PM
+Message :ProductUtils | save | {"ProductId":1.0,"Quantity":1,"OrderId":0} SQL Error: Number - 201, Procedure or function 'sp_orders' expects parameter '@LastInsertedOrderId', which was not supplied.
+
+
+-----------------------------------------------------------------------------
+
